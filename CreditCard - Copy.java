@@ -1,4 +1,5 @@
 public class CreditCard {
+    //didn't make any changes
     //  Instance variables:
     private final String customer;    // name of the customer (e.g., ”John Bowman”)
     private final String bank;        // name of the bank (e.g., ”California Savings”)
